@@ -1,4 +1,11 @@
 ### Hi there 👋
+My name is Ssebalamu Ronald Ggaanya AKA theefreelancer.
+I am currently learning Javascript and Java.
+In my freetime I love to take on challenges on Leetcode
+I am 
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=theefreelancer&theme=gruvbox)](https://git.io/streak-stats)
 
 <!--
 **theefreelancer/theefreelancer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
