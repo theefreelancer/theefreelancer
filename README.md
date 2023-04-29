@@ -1,10 +1,10 @@
 ### Hi there 👋, I am Ssebalamu Ronald Ggaanya AKA theefreelancer.
 
-🌱 I am currently learning Javascript and Java.
-🔭 I’m currently working on ArchBuilder
-👯 I’m looking to collaborate on Java and JavaScript projects.
-🏆 In my freetime I love to take on challenges on Leetcode.
-🤔 I’m looking for help with building entreprise applications in both Java and JavaScript
+ 🌱 I am currently learning Javascript and Java.
+<br />🔭 I’m currently working on ArchBuilder
+<br />👯 I’m looking to collaborate on Java and JavaScript projects.
+<br />🏆 In my freetime I love to take on challenges on Leetcode.
+<br />🤔 I’m looking for help with building entreprise applications in both Java and JavaScript
 
 
 
