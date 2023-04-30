@@ -1,4 +1,4 @@
-### Hi there 👋, I am Ssebalamu Ronald Ggaanya AKA theefreelancer.
+### Hi there 👋, I am Ssebalamu Ronald Ggaanya
 
  🌱 I am currently learning Javascript and Java.
 <br />🔭 I’m currently working on ArchBuilder
